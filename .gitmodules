@@ -1,0 +1,3 @@
+[submodule "rescue-and-adoption"]
+	path = rescue-and-adoption
+	url = git@github.com:sourovw/rescue-and-adoption.git
